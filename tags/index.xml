@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Varun Dineshan</title>
+    <link>https://varundineshan.github.io/portfolio/tags/</link>
+    <description>Recent content in Tags on Varun Dineshan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Jan 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://varundineshan.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bank</title>
+      <link>https://varundineshan.github.io/portfolio/tags/bank/</link>
+      <pubDate>Sat, 09 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://varundineshan.github.io/portfolio/tags/bank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>churn prediction</title>
+      <link>https://varundineshan.github.io/portfolio/tags/churn-prediction/</link>
+      <pubDate>Sat, 09 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://varundineshan.github.io/portfolio/tags/churn-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://varundineshan.github.io/portfolio/tags/machine-learning/</link>
+      <pubDate>Sat, 09 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://varundineshan.github.io/portfolio/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>automation</title>
+      <link>https://varundineshan.github.io/portfolio/tags/automation/</link>
+      <pubDate>Thu, 11 Apr 2019 11:13:32 -0400</pubDate>
+      
+      <guid>https://varundineshan.github.io/portfolio/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DOM manipulation</title>
+      <link>https://varundineshan.github.io/portfolio/tags/dom-manipulation/</link>
+      <pubDate>Thu, 11 Apr 2019 11:13:32 -0400</pubDate>
+      
+      <guid>https://varundineshan.github.io/portfolio/tags/dom-manipulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webscraping</title>
+      <link>https://varundineshan.github.io/portfolio/tags/webscraping/</link>
+      <pubDate>Thu, 11 Apr 2019 11:13:32 -0400</pubDate>
+      
+      <guid>https://varundineshan.github.io/portfolio/tags/webscraping/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

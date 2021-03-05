@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>webscraping on Varun Dineshan</title>
+    <link>https://varundineshan.github.io/portfolio/tags/webscraping/</link>
+    <description>Recent content in webscraping on Varun Dineshan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Apr 2019 11:13:32 -0400</lastBuildDate><atom:link href="https://varundineshan.github.io/portfolio/tags/webscraping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automate Download</title>
+      <link>https://varundineshan.github.io/portfolio/post/project-3/</link>
+      <pubDate>Thu, 11 Apr 2019 11:13:32 -0400</pubDate>
+      
+      <guid>https://varundineshan.github.io/portfolio/post/project-3/</guid>
+      <description>In this project selenium python is used to automate various browsing activities, and also to convert various document formats to client requirements. [Link to GitHub Repository](https://github.com/varundineshan/Automatedownload</description>
+    </item>
+    
+  </channel>
+</rss>

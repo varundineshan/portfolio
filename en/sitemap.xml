@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://varundineshan.github.io/portfolio/post/project-2/</loc>
+    <lastmod>2021-01-10T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://varundineshan.github.io/portfolio/</loc>
+    <lastmod>2021-01-10T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://varundineshan.github.io/portfolio/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://varundineshan.github.io/portfolio/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://varundineshan.github.io/portfolio/tags/bank/</loc>
+    <lastmod>2021-01-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://varundineshan.github.io/portfolio/post/project-1/</loc>
+    <lastmod>2021-01-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://varundineshan.github.io/portfolio/tags/churn-prediction/</loc>
+    <lastmod>2021-01-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://varundineshan.github.io/portfolio/tags/machine-learning/</loc>
+    <lastmod>2021-01-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://varundineshan.github.io/portfolio/tags/</loc>
+    <lastmod>2021-01-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://varundineshan.github.io/portfolio/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://varundineshan.github.io/portfolio/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://varundineshan.github.io/portfolio/post/project-3/</loc>
+    <lastmod>2019-04-11T11:13:32-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://varundineshan.github.io/portfolio/tags/automation/</loc>
+    <lastmod>2019-04-11T11:13:32-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://varundineshan.github.io/portfolio/tags/dom-manipulation/</loc>
+    <lastmod>2019-04-11T11:13:32-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://varundineshan.github.io/portfolio/tags/webscraping/</loc>
+    <lastmod>2019-04-11T11:13:32-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://varundineshan.github.io/portfolio/post/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://varundineshan.github.io/portfolio/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://varundineshan.github.io/portfolio/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://varundineshan.github.io/portfolio/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://varundineshan.github.io/portfolio/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://varundineshan.github.io/portfolio/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://varundineshan.github.io/portfolio/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://varundineshan.github.io/portfolio/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://varundineshan.github.io/portfolio/fr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://varundineshan.github.io/portfolio/contact/"
+                />
+  </url>
+  
+</urlset>
